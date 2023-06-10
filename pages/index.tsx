@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Vercel Trick By <a href="https://alcashzone.com">Alcash Zone</a>
+          Welcome to Vercel Trick By <a href="https://wordar.net">WordAR</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,31 +23,31 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://alcashzone.com/category/adsterra-earning/" className={styles.card}>
+          <a href="https://wordar.net/5-best-hosting-companies/" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Here you can find how to earn money from Adsterra .</p>
+            <p>5 Best Hosting Companies For 2023 .</p>
           </a>
 
-          <a href="https://alcashzone.com/category/adsense-approval/" className={styles.card}>
-            <h2>Master In AdSense Approval &rarr;</h2>
-            <p>Here you can find the of how you become master in AdSense approval!</p>
+          <a href="https://wordar.net/best-cheap-car-insurance-companies/" className={styles.card}>
+            <h2>Car Insurance Companies &rarr;</h2>
+            <p>Best Cheap Car Insurance Companies!</p>
           </a>
 
           <a
-            href="https://alcashzone.com/category/blogging/"
+            href="https://wordar.net/"
             className={styles.card}
           >
             <h2>Blogging &rarr;</h2>
-            <p>Here you can find the source to become master in blogging</p>
+            <p>Amazing and intresting Facts</p>
           </a>
 
           <a
-            href="https://newstick.us"
+            href="https://wordar.net/"
             className={styles.card}
           >
             <h2>News &rarr;</h2>
             <p>
-              Here you can find showviz news and other national and internation news
+              Here you can find Amazing and intresting Facts
             </p>
           </a>
         </div>
